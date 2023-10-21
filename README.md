@@ -24,4 +24,4 @@ Backend part of our management systems for both digital & local consultations be
 
 ### Presentation
 
-[![APPSICK DEMO](https://img.youtube.com/vi/lisbaJT8LfU/0.jpg)](https://www.youtube.com/watch?v=lisbaJT8LfU)
+[![APPSICK DEMO](https://img.youtube.com/vi/bdRFcc1ZaSo/0.jpg)](https://www.youtube.com/watch?v=bdRFcc1ZaSo)
